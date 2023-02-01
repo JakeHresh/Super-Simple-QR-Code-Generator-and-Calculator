@@ -11,5 +11,7 @@ The system is very rudimentary, but is useful for anyone looking for a quick and
 The tool is built with Python using the following libraries:
 
 qrcode
+
 PIL
+
 PySimpleGUI
